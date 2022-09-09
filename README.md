@@ -1,34 +1,19 @@
 # Java 8 for Professionals
-This is the repository for the LinkedIn Learning course `Java 8 for Professionals`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Java 8 for Professionals. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![Java 8 for Professionals][lil-thumbnail-url] 
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Java 8 was released in 2014, but it’s still one of the most popular versions of Java and is widely used by Java developers today. So if you’re still using an older version of Java, it’s not too late to catch up! Join instructor Maaike van Putten as she covers the many useful features that can change the way you write code with Java 8. She details new ways of working with date and time, touches on Base64, and goes over the new additions to the interfaces. She drills down on lambda expressions and the stream API, explains why the Optional class is not optional in Java, and finishes the course with several more Java features to know. Maaike also includes challenges and solutions, so you can test your knowledge as you advance through the course.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+### Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Maaike van Putten 
+                            
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+                            
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/maaike-van-putten).
 
+[lil-course-url]: https://www.linkedin.com/learning/java-8-for-professionals
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2462125/2462125-1662574710611-16x9.jpg
